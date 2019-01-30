@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 1d7bbed10c2b6a440842c578a7ebb62f
+timeCreated: 1548033647
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: minion:botCorners
+    100002: minion:botMid
+    100004: minion:browMorph_jnt
+    100006: minion:cheecks_jnt
+    100008: minion:eyeL_botLid_jnt
+    100010: minion:eyeL_jnt
+    100012: minion:eyeL_topLid_jnt
+    100014: minion:eyeM_botLid_jnt
+    100016: minion:eyeM_jnt
+    100018: minion:eyeM_topLid_jnt
+    100020: minion:eyeMain_jnt
+    100022: minion:eyeR_botLid_jnt
+    100024: minion:eyeR_jnt
+    100026: minion:eyeR_topLid_jnt
+    100028: minion:eyeScale_jnt
+    100030: minion:googles_jnt
+    100032: minion:hair1_jnt
+    100034: minion:hair2_jnt
+    100036: minion:hatScale_jnt
+    100038: minion:head_jnt
+    100040: minion:headOffset_jnt
+    100042: minion:L_ankle_jnt
+    100044: minion:L_arm_jnt
+    100046: minion:L_armTwist_jnt
+    100048: minion:L_elbow_jnt
+    100050: minion:L_elbowTwist_jnt
+    100052: minion:L_hip_jnt
+    100054: minion:L_hipOffset_jnt
+    100056: minion:L_indexA_jnt
+    100058: minion:L_indexB_jnt
+    100060: minion:L_knee_jnt
+    100062: minion:L_leg_jnt
+    100064: minion:L_pinkyA_jnt
+    100066: minion:L_pinkyB_jnt
+    100068: minion:L_prop
+    100070: minion:L_shoulder_jnt
+    100072: minion:L_shoulderOffset_jnt
+    100074: minion:L_thumbA_jnt
+    100076: minion:L_thumbB_jnt
+    100078: minion:L_toe_jnt
+    100080: minion:L_wrist_jnt
+    100082: minion:mouth_base_jnt
+    100084: minion:mouth_jaw_jnt
+    100086: minion:mouth_tongue_jnt
+    100088: minion:mouth_topTeeth_jnt
+    100090: minion:mouthOffset_jnt
+    100092: minion:neck_jnt
+    100094: minion:neckOffset_jnt
+    100096: minion:neckStretch_jnt
+    100098: minion:pelvis_jnt
+    100100: minion:pelvisOffset_jnt
+    100102: minion:R_ankle_jnt
+    100104: minion:R_arm_jnt
+    100106: minion:R_armTwist_jnt
+    100108: minion:R_elbow_jnt
+    100110: minion:R_elbowTwist_jnt
+    100112: minion:R_hip_jnt
+    100114: minion:R_hipOffset_jnt
+    100116: minion:R_indexA_jnt
+    100118: minion:R_indexB_jnt
+    100120: minion:R_knee_jnt
+    100122: minion:R_leg_jnt
+    100124: minion:R_pinkyA_jnt
+    100126: minion:R_pinkyB_jnt
+    100128: minion:R_prop
+    100130: minion:R_shoulder_jnt
+    100132: minion:R_shoulderOffset_jnt
+    100134: minion:R_thumbA_jnt
+    100136: minion:R_thumbB_jnt
+    100138: minion:R_toe_jnt
+    100140: minion:R_wrist_jnt
+    100142: minion:ROOT
+    100144: minion:spine_jnt
+    100146: minion:spineOffset_jnt
+    100148: minion:topCorners
+    100150: minion:topMid
+    100152: //RootNode
+    100154: botCorners
+    100156: botMid
+    100158: browMorph_jnt
+    100160: cheecks_jnt
+    100162: eyeL_botLid_jnt
+    100164: eyeL_jnt
+    100166: eyeL_topLid_jnt
+    100168: eyeM_botLid_jnt
+    100170: eyeM_jnt
+    100172: eyeM_topLid_jnt
+    100174: eyeMain_jnt
+    100176: eyeR_botLid_jnt
+    100178: eyeR_jnt
+    100180: eyeR_topLid_jnt
+    100182: eyeScale_jnt
+    100184: googles_jnt
+    100186: hair1_jnt
+    100188: hair2_jnt
+    100190: hatScale_jnt
+    100192: head_jnt
+    100194: headOffset_jnt
+    100196: L_ankle_jnt
+    100198: L_arm_jnt
+    100200: L_armTwist_jnt
+    100202: L_elbow_jnt
+    100204: L_elbowTwist_jnt
+    100206: L_hip_jnt
+    100208: L_hipOffset_jnt
+    100210: L_indexA_jnt
+    100212: L_indexB_jnt
+    100214: L_knee_jnt
+    100216: L_leg_jnt
+    100218: L_pinkyA_jnt
+    100220: L_pinkyB_jnt
+    100222: L_prop
+    100224: L_shoulder_jnt
+    100226: L_shoulderOffset_jnt
+    100228: L_thumbA_jnt
+    100230: L_thumbB_jnt
+    100232: L_toe_jnt
+    100234: L_wrist_jnt
+    100236: mouth_base_jnt
+    100238: mouth_jaw_jnt
+    100240: mouth_tongue_jnt
+    100242: mouth_topTeeth_jnt
+    100244: mouthOffset_jnt
+    100246: neck_jnt
+    100248: neckOffset_jnt
+    100250: neckStretch_jnt
+    100252: pelvis_jnt
+    100254: pelvisOffset_jnt
+    100256: R_ankle_jnt
+    100258: R_arm_jnt
+    100260: R_armTwist_jnt
+    100262: R_elbow_jnt
+    100264: R_elbowTwist_jnt
+    100266: R_hip_jnt
+    100268: R_hipOffset_jnt
+    100270: R_indexA_jnt
+    100272: R_indexB_jnt
+    100274: R_knee_jnt
+    100276: R_leg_jnt
+    100278: R_pinkyA_jnt
+    100280: R_pinkyB_jnt
+    100282: R_prop
+    100284: R_shoulder_jnt
+    100286: R_shoulderOffset_jnt
+    100288: R_thumbA_jnt
+    100290: R_thumbB_jnt
+    100292: R_toe_jnt
+    100294: R_wrist_jnt
+    100296: ROOT
+    100298: spine_jnt
+    100300: spineOffset_jnt
+    100302: topCorners
+    100304: topMid
+    100306: char_Mdl
+    400000: minion:botCorners
+    400002: minion:botMid
+    400004: minion:browMorph_jnt
+    400006: minion:cheecks_jnt
+    400008: minion:eyeL_botLid_jnt
+    400010: minion:eyeL_jnt
+    400012: minion:eyeL_topLid_jnt
+    400014: minion:eyeM_botLid_jnt
+    400016: minion:eyeM_jnt
+    400018: minion:eyeM_topLid_jnt
+    400020: minion:eyeMain_jnt
+    400022: minion:eyeR_botLid_jnt
+    400024: minion:eyeR_jnt
+    400026: minion:eyeR_topLid_jnt
+    400028: minion:eyeScale_jnt
+    400030: minion:googles_jnt
+    400032: minion:hair1_jnt
+    400034: minion:hair2_jnt
+    400036: minion:hatScale_jnt
+    400038: minion:head_jnt
+    400040: minion:headOffset_jnt
+    400042: minion:L_ankle_jnt
+    400044: minion:L_arm_jnt
+    400046: minion:L_armTwist_jnt
+    400048: minion:L_elbow_jnt
+    400050: minion:L_elbowTwist_jnt
+    400052: minion:L_hip_jnt
+    400054: minion:L_hipOffset_jnt
+    400056: minion:L_indexA_jnt
+    400058: minion:L_indexB_jnt
+    400060: minion:L_knee_jnt
+    400062: minion:L_leg_jnt
+    400064: minion:L_pinkyA_jnt
+    400066: minion:L_pinkyB_jnt
+    400068: minion:L_prop
+    400070: minion:L_shoulder_jnt
+    400072: minion:L_shoulderOffset_jnt
+    400074: minion:L_thumbA_jnt
+    400076: minion:L_thumbB_jnt
+    400078: minion:L_toe_jnt
+    400080: minion:L_wrist_jnt
+    400082: minion:mouth_base_jnt
+    400084: minion:mouth_jaw_jnt
+    400086: minion:mouth_tongue_jnt
+    400088: minion:mouth_topTeeth_jnt
+    400090: minion:mouthOffset_jnt
+    400092: minion:neck_jnt
+    400094: minion:neckOffset_jnt
+    400096: minion:neckStretch_jnt
+    400098: minion:pelvis_jnt
+    400100: minion:pelvisOffset_jnt
+    400102: minion:R_ankle_jnt
+    400104: minion:R_arm_jnt
+    400106: minion:R_armTwist_jnt
+    400108: minion:R_elbow_jnt
+    400110: minion:R_elbowTwist_jnt
+    400112: minion:R_hip_jnt
+    400114: minion:R_hipOffset_jnt
+    400116: minion:R_indexA_jnt
+    400118: minion:R_indexB_jnt
+    400120: minion:R_knee_jnt
+    400122: minion:R_leg_jnt
+    400124: minion:R_pinkyA_jnt
+    400126: minion:R_pinkyB_jnt
+    400128: minion:R_prop
+    400130: minion:R_shoulder_jnt
+    400132: minion:R_shoulderOffset_jnt
+    400134: minion:R_thumbA_jnt
+    400136: minion:R_thumbB_jnt
+    400138: minion:R_toe_jnt
+    400140: minion:R_wrist_jnt
+    400142: minion:ROOT
+    400144: minion:spine_jnt
+    400146: minion:spineOffset_jnt
+    400148: minion:topCorners
+    400150: minion:topMid
+    400152: //RootNode
+    400154: botCorners
+    400156: botMid
+    400158: browMorph_jnt
+    400160: cheecks_jnt
+    400162: eyeL_botLid_jnt
+    400164: eyeL_jnt
+    400166: eyeL_topLid_jnt
+    400168: eyeM_botLid_jnt
+    400170: eyeM_jnt
+    400172: eyeM_topLid_jnt
+    400174: eyeMain_jnt
+    400176: eyeR_botLid_jnt
+    400178: eyeR_jnt
+    400180: eyeR_topLid_jnt
+    400182: eyeScale_jnt
+    400184: googles_jnt
+    400186: hair1_jnt
+    400188: hair2_jnt
+    400190: hatScale_jnt
+    400192: head_jnt
+    400194: headOffset_jnt
+    400196: L_ankle_jnt
+    400198: L_arm_jnt
+    400200: L_armTwist_jnt
+    400202: L_elbow_jnt
+    400204: L_elbowTwist_jnt
+    400206: L_hip_jnt
+    400208: L_hipOffset_jnt
+    400210: L_indexA_jnt
+    400212: L_indexB_jnt
+    400214: L_knee_jnt
+    400216: L_leg_jnt
+    400218: L_pinkyA_jnt
+    400220: L_pinkyB_jnt
+    400222: L_prop
+    400224: L_shoulder_jnt
+    400226: L_shoulderOffset_jnt
+    400228: L_thumbA_jnt
+    400230: L_thumbB_jnt
+    400232: L_toe_jnt
+    400234: L_wrist_jnt
+    400236: mouth_base_jnt
+    400238: mouth_jaw_jnt
+    400240: mouth_tongue_jnt
+    400242: mouth_topTeeth_jnt
+    400244: mouthOffset_jnt
+    400246: neck_jnt
+    400248: neckOffset_jnt
+    400250: neckStretch_jnt
+    400252: pelvis_jnt
+    400254: pelvisOffset_jnt
+    400256: R_ankle_jnt
+    400258: R_arm_jnt
+    400260: R_armTwist_jnt
+    400262: R_elbow_jnt
+    400264: R_elbowTwist_jnt
+    400266: R_hip_jnt
+    400268: R_hipOffset_jnt
+    400270: R_indexA_jnt
+    400272: R_indexB_jnt
+    400274: R_knee_jnt
+    400276: R_leg_jnt
+    400278: R_pinkyA_jnt
+    400280: R_pinkyB_jnt
+    400282: R_prop
+    400284: R_shoulder_jnt
+    400286: R_shoulderOffset_jnt
+    400288: R_thumbA_jnt
+    400290: R_thumbB_jnt
+    400292: R_toe_jnt
+    400294: R_wrist_jnt
+    400296: ROOT
+    400298: spine_jnt
+    400300: spineOffset_jnt
+    400302: topCorners
+    400304: topMid
+    400306: char_Mdl
+    2100000: minion_Costume_Base_Mat
+    4300000: char_Mdl
+    7400000: Shout_FullFramerate
+    9500000: //RootNode
+    13700000: char_Mdl
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 5
+    animationPositionError: 5
+    animationScaleError: 5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shout_FullFramerate
+      takeName: char_minion_generic_HIGH
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: minion:ROOT
+        weight: 1
+      - path: minion:ROOT/minion:L_prop
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt/minion:L_hip_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt/minion:L_hip_jnt/minion:L_leg_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt/minion:L_hip_jnt/minion:L_leg_jnt/minion:L_ankle_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt/minion:L_hip_jnt/minion:L_leg_jnt/minion:L_ankle_jnt/minion:L_toe_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:L_hipOffset_jnt/minion:L_hip_jnt/minion:L_leg_jnt/minion:L_knee_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:pelvisOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt/minion:R_hip_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt/minion:R_hip_jnt/minion:R_leg_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt/minion:R_hip_jnt/minion:R_leg_jnt/minion:R_ankle_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt/minion:R_hip_jnt/minion:R_leg_jnt/minion:R_ankle_jnt/minion:R_toe_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:R_hipOffset_jnt/minion:R_hip_jnt/minion:R_leg_jnt/minion:R_knee_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_armTwist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_elbowTwist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_indexB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_indexB_jnt/minion:L_indexA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_pinkyB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_pinkyB_jnt/minion:L_pinkyA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_thumbB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:L_shoulderOffset_jnt/minion:L_shoulder_jnt/minion:L_arm_jnt/minion:L_elbow_jnt/minion:L_wrist_jnt/minion:L_thumbB_jnt/minion:L_thumbA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:botCorners
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:botMid
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:cheecks_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:mouth_jaw_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:mouth_jaw_jnt/minion:mouth_tongue_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:mouth_topTeeth_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:topCorners
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:mouthOffset_jnt/minion:mouth_base_jnt/minion:topMid
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:browMorph_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeL_botLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeL_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeL_topLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeM_botLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeM_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeM_topLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeR_botLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeR_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:eyeScale_jnt/minion:eyeR_topLid_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:eyeMain_jnt/minion:googles_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:hair1_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:hair2_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:head_jnt/minion:headOffset_jnt/minion:hatScale_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:neckStretch_jnt/minion:neck_jnt/minion:neckOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_armTwist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_elbowTwist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_indexB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_indexB_jnt/minion:R_indexA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_pinkyB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_pinkyB_jnt/minion:R_pinkyA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_thumbB_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:R_shoulderOffset_jnt/minion:R_shoulder_jnt/minion:R_arm_jnt/minion:R_elbow_jnt/minion:R_wrist_jnt/minion:R_thumbB_jnt/minion:R_thumbA_jnt
+        weight: 1
+      - path: minion:ROOT/minion:pelvis_jnt/minion:spine_jnt/minion:spineOffset_jnt
+        weight: 0
+      - path: minion:ROOT/minion:R_prop
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
