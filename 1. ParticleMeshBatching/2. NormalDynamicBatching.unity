@@ -341,7 +341,7 @@ MonoBehaviour:
   GlobalColor: []
   GlobalTexture:
   - VarTextureName: _MatCapTex
-    VarTexture: {fileID: 2800000, guid: b5687c57ee291054f835a7e02623a359, type: 3}
+    VarTexture: {fileID: 2800000, guid: 19cb7ced781368042887c262ca68d3ac, type: 3}
 --- !u!4 &1926688296
 Transform:
   m_ObjectHideFlags: 0
